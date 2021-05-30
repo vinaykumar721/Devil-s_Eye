@@ -12,9 +12,9 @@
 
 ![](images/electronjs.jpeg)
 
--Devil’s eye is a desktop application. We have decided to design it in an electron app using Javascript . As I have little knowledge in react and javascript in order to design better I learned certain Javascript concepts which are useful to the project.
--As I started working on the project it has become tougher than it looked. I have faced the biggest challenge to integrate changes done in Java script to reflect in the main process where the electron apps can work.
--Inorder to get more understanding and grip on the project, I have referenced electron documentation and watched some youtube videos and had a firm knowledge on IPC main and renderer process and successfully the hello-world page is designed in electron.
+- Devil’s eye is a desktop application. We have decided to design it in an electron app using Javascript . As I have little knowledge in react and javascript in order to design better I learned certain Javascript concepts which are useful to the project.
+- As I started working on the project it has become tougher than it looked. I have faced the biggest challenge to integrate changes done in Java script to reflect in the main process where the electron apps can work.
+- Inorder to get more understanding and grip on the project, I have referenced electron documentation and watched some youtube videos and had a firm knowledge on IPC main and renderer process and successfully the hello-world page is designed in electron.
 
 # Sprint-2: Sign In process
 
