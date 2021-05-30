@@ -20,23 +20,23 @@
 
 ![](images/login.jpeg)
 
--To start with the project, our team and I have decided to work on the Sign-In page first for our application.
--With which the students need to sign-in into the application with an MSIT email.
--For the Sign-in application, we used MongoDB for database collection where we stored all MSIT student’s details for instance, student name, email-Id etc in a collections database with their respective ID numbers.
--Whenever an user signs in into a devil’s eye application it will send an API which checks whether it is a valid email or not by checking in the database and returns a response.
--Based on the response i.e if the user is legitimate then the application starts loading to the next page where the mentors page will be loaded.
--If the user is not legitimate it will ask the user to try again with a valid e-mail ID then the page gets loaded from there.
+- To start with the project, our team and I have decided to work on the Sign-In page first for our application.
+- With which the students need to sign-in into the application with an MSIT email.
+- For the Sign-in application, we used MongoDB for database collection where we stored all MSIT student’s details for instance, student name, email-Id etc in a collections database with their respective ID numbers.
+- Whenever an user signs in into a devil’s eye application it will send an API which checks whether it is a valid email or not by checking in the database and returns a response.
+- Based on the response i.e if the user is legitimate then the application starts loading to the next page where the mentors page will be loaded.
+- If the user is not legitimate it will ask the user to try again with a valid e-mail ID then the page gets loaded from there.
 
 # Sprint-3: Database in MongoDB
 
 ![](images/MongoDB-to-JSON.png)
 
--MongoDB is an open-source document database and leading NoSQL database. MongoDB is written in C++. This tutorial will give you great understanding on MongoDB concepts needed to create and deploy a highly scalable and performance-oriented database.
--Initially I faced difficulty while working on databases and how to fetch the data from the database on our local machines.
--After exploring, our team and I decided to use the AWS lambda function for response. We used an API key for response on local machines.
--Similarly, for the mentors list I have used stored IT and SOFT SKILLS Mentor details.
--After loading mentor details, I worked on DIALOG BOX POP UP which is the soul of the project. Initially dialog box pop up occurred not on the current window.
--Finally, after getting the whole understanding on the electron and how to get the popup box on the particular page which will be embedded in the electron application only.
+- MongoDB is an open-source document database and leading NoSQL database. MongoDB is written in C++. This tutorial will give you great understanding on MongoDB concepts needed to create and deploy a highly scalable and performance-oriented database.
+- Initially I faced difficulty while working on databases and how to fetch the data from the database on our local machines.
+- After exploring, our team and I decided to use the AWS lambda function for response. We used an API key for response on local machines.
+- Similarly, for the mentors list I have used stored IT and SOFT SKILLS Mentor details.
+- After loading mentor details, I worked on DIALOG BOX POP UP which is the soul of the project. Initially dialog box pop up occurred not on the current window.
+- Finally, after getting the whole understanding on the electron and how to get the popup box on the particular page which will be embedded in the electron application only.
 
 # Sprint-4: Integrating electron with the database
 
