@@ -42,3 +42,6 @@
 
 ![](images/electron-showmessagebox.png)
 
+- As a student, I want to start the session after selecting my respective session type and mentor name. So that, I can join the session.
+- As a student, I want to get the dialog box at random time stating whether I am attentive in the session or not. So that, I can claim attendance by clicking “Yes that I am present in the session”.
+
