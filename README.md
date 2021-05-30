@@ -38,7 +38,7 @@
 - After loading mentor details, I worked on DIALOG BOX POP UP which is the soul of the project. Initially dialog box pop up occurred not on the current window.
 - Finally, after getting the whole understanding on the electron and how to get the popup box on the particular page which will be embedded in the electron application only.
 
-# Sprint-4: Integrating electron with the database
+# Sprint-4: Generate DialogBox at randon time
 
 ![](images/electron-showmessagebox.png)
 
