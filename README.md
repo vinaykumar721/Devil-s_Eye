@@ -38,10 +38,20 @@
 - After loading mentor details, I worked on DIALOG BOX POP UP which is the soul of the project. Initially dialog box pop up occurred not on the current window.
 - Finally, after getting the whole understanding on the electron and how to get the popup box on the particular page which will be embedded in the electron application only.
 
-# Sprint-4: Generate DialogBox at randon time
+# Sprint-4: Generate DialogBox at random time
 
 ![](images/electron-showmessagebox.png)
 
-- As a student, I want to start the session after selecting my respective session type and mentor name. So that, I can join the session.
-- As a student, I want to get the dialog box at random time stating whether I am attentive in the session or not. So that, I can claim attendance by clicking “Yes that I am present in the session”.
+- Initially, we struggled to integrate the sign-in page into the electron application. I am stuck in the middle by the integration, watched several videos and understood the basic concepts of pages to integrate and adjust with the electron technologies. Later, our team and I had successfully implemented the Sign-in page.
+Now, as we discussed earlier, to take the attendance of the student in order to understand if the student is particularly attentive in the class or not. 
+ 
+- Speaking of which, I have come up with the idea of generating popup messages which show up on the student screen at random time to check the whereabouts of the students. 
+- Generally, the message asks the student whether he is attentive or not. If yes, the student will click the right button if not the student will tend to click the wrong button or in the least scenario the student will miss to answer the popup message.
+ 
+- If the student selects the right answer then the student will get attendance orelse the student will lose the attendance for that particular session.
+
+- Having said that, I have tried generating the pop messages in the electron app as a trail on the current working window. Later, I have tried to generate the same at regular intervals. To do so, I have used the random library to generate the pop messages at regular intervals on the screen of the students. 
+ 
+- After generating the pop messages successfully. Next, I tried to disappear the message after 10 sec. But, the method is not feasible with the electron technology. 
+
 
