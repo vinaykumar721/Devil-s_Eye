@@ -65,7 +65,7 @@ Now, as we discussed earlier, to take the attendance of the student in order to 
 
 # Sprint-6: Back and Front
 
-![](images/mongoose.png)
+![](images/sprint6.png)
 - As I mentioned earlier, we were facing issues while traversing the data during the data retrieval. So, we have seeked help from our mentor for the solution by referring to a plethora of resources.
 - We successfully inserted the data into the database in the JSON format by using mongoose.
 
@@ -75,13 +75,13 @@ Now, as we discussed earlier, to take the attendance of the student in order to 
 - Along with that, we have retrieved the data from the database and tried to insert the functionalities of login and logout from the application side.
 
 # Sprint-7: Rendered Data with dashboard
-![](images/mongoose.png)
+![](images/sprint7.png)
 - As we completed login and logout also few other functionalities as well. In this week's sprint we have completed the design of the dashboard by using CSS styling for the application. We have written the schema. We tested the schema in the electron and ran it while the failures were written and had to come up with the solutions to those errors. Also, we have fetched the data from MongoDB and read the data and inserted it into the electron. 
 - Similarly, we also completed the SS and styling for the Login page. But we found certain difficulty while traversing the data from the MongoDB to the electron app. Also, faced difficulty while representing the data in the tabular form.
 - Later, half of the part was done which was completing the SS and styling for the Login page and the traversing of the data from the MongoDB to the electron app. But while designing the dashboard and retrive the data from the database and include that in the electron by calling the API calls continued facing difficulty while representing the data in the tabular form
 
 # Sprint-8: The Final Product testing
-![](images/mongoose.png)
+![](images/sprint8.jpeg)
 - As we walk through the whole process we have got the necessary pages and the application purpose right. Now, is to design the pages, add the framework on the desktop application and the dashboard.
 - Including that, we have successfully processed the students attendance data from the MongoDB to the dashboard and also can visually look at the attendance of the students.
 - We have tested our application which includes certain edge cases for example, if the students join after or before the allotted session timings the application will not work.
